@@ -1,0 +1,1 @@
+AirplaneLD-COL-0010-LTLCardinality-06:<>(<>(({token-count(Weight_Left_Wheel,)<=token-count(P6,)})U({token-count(P1,)<=token-count(P5,)})))

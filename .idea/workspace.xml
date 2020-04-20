@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="CPN_PNML_PARSE" targetName="EnPAC_CPN_C" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="af969263-0f25-481c-abb4-fae0b91fc187" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1WWfRDFPzsd1UuoJTirK7AP7rTA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/CModels" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/cmake-build-debug" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="EnPAC_CPN_C" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPN_PNML_PARSE" TARGET_NAME="EnPAC_CPN_C" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPN_PNML_PARSE" RUN_TARGET_NAME="EnPAC_CPN_C">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af969263-0f25-481c-abb4-fae0b91fc187" name="Default Changelist" comment="" />
+      <created>1574417136803</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574417136803</updated>
+      <workItem from="1574417138273" duration="1257000" />
+      <workItem from="1574485303730" duration="4931000" />
+      <workItem from="1574736536414" duration="630000" />
+      <workItem from="1574741991204" duration="1439000" />
+      <workItem from="1574765062828" duration="4734000" />
+      <workItem from="1574936190996" duration="10831000" />
+      <workItem from="1575019398409" duration="7693000" />
+      <workItem from="1575179622843" duration="14464000" />
+      <workItem from="1575352340450" duration="6105000" />
+      <workItem from="1575453369600" duration="17460000" />
+      <workItem from="1575535718337" duration="34000" />
+      <workItem from="1575535844894" duration="9584000" />
+      <workItem from="1575628218142" duration="6389000" />
+      <workItem from="1575787705047" duration="24345000" />
+      <workItem from="1575820120716" duration="7619000" />
+      <workItem from="1575867103644" duration="322000" />
+      <workItem from="1575894868808" duration="9808000" />
+      <workItem from="1575953378592" duration="27138000" />
+      <workItem from="1576098009602" duration="2621000" />
+      <workItem from="1576298930152" duration="57329000" />
+      <workItem from="1576499828957" duration="9778000" />
+      <workItem from="1576583851576" duration="4519000" />
+      <workItem from="1577766650412" duration="4749000" />
+      <workItem from="1577855209889" duration="8668000" />
+      <workItem from="1577904061024" duration="232000" />
+      <workItem from="1577875517845" duration="4644000" />
+      <workItem from="1578051432831" duration="6314000" />
+      <workItem from="1578111753284" duration="46889000" />
+      <workItem from="1578286446997" duration="2730000" />
+      <workItem from="1578290247616" duration="4020000" />
+      <workItem from="1578301220848" duration="19511000" />
+      <workItem from="1578385955584" duration="100000" />
+      <workItem from="1578386093513" duration="105000" />
+      <workItem from="1578386219810" duration="486000" />
+      <workItem from="1578457514440" duration="17487000" />
+      <workItem from="1578544591729" duration="20593000" />
+      <workItem from="1578632402468" duration="6292000" />
+      <workItem from="1578639061603" duration="13292000" />
+      <workItem from="1578719366625" duration="13449000" />
+      <workItem from="1578808373124" duration="153000" />
+      <workItem from="1578887283391" duration="3822000" />
+      <workItem from="1578999026374" duration="1757000" />
+      <workItem from="1579270265127" duration="122000" />
+      <workItem from="1579404647906" duration="21000" />
+      <workItem from="1579405360501" duration="183000" />
+      <workItem from="1579406785865" duration="2603000" />
+      <workItem from="1579460496362" duration="802000" />
+      <workItem from="1579712454333" duration="6422000" />
+      <workItem from="1579820492127" duration="1547000" />
+      <workItem from="1579954117021" duration="871000" />
+      <workItem from="1579986713889" duration="6388000" />
+      <workItem from="1580042549717" duration="12057000" />
+      <workItem from="1580166619294" duration="4171000" />
+      <workItem from="1580255225238" duration="1774000" />
+      <workItem from="1580304434348" duration="3974000" />
+      <workItem from="1580325780443" duration="2298000" />
+      <workItem from="1580307166730" duration="7397000" />
+      <workItem from="1580365191479" duration="7873000" />
+      <workItem from="1580447203426" duration="1438000" />
+      <workItem from="1580484452712" duration="1575000" />
+      <workItem from="1580488228621" duration="824000" />
+      <workItem from="1580489740868" duration="392000" />
+      <workItem from="1580533841663" duration="6195000" />
+      <workItem from="1580656445456" duration="833000" />
+      <workItem from="1580659471384" duration="25000" />
+      <workItem from="1580659506759" duration="169000" />
+      <workItem from="1580657999318" duration="474000" />
+      <workItem from="1580659199110" duration="706000" />
+      <workItem from="1580706642579" duration="21000" />
+      <workItem from="1580714509924" duration="2643000" />
+      <workItem from="1580819953835" duration="12895000" />
+      <workItem from="1580882936498" duration="2552000" />
+      <workItem from="1581310800958" duration="1028000" />
+      <workItem from="1581459336873" duration="1937000" />
+      <workItem from="1581479812111" duration="6000" />
+      <workItem from="1581599187636" duration="1795000" />
+      <workItem from="1581656882622" duration="3732000" />
+      <workItem from="1581913173755" duration="839000" />
+      <workItem from="1582004843945" duration="4065000" />
+      <workItem from="1582013932847" duration="4459000" />
+      <workItem from="1582098875940" duration="9013000" />
+      <workItem from="1582171599170" duration="684000" />
+      <workItem from="1582185173359" duration="4135000" />
+      <workItem from="1582435141898" duration="2041000" />
+      <workItem from="1582469652161" duration="614000" />
+      <workItem from="1582892775139" duration="4556000" />
+      <workItem from="1582899244449" duration="2904000" />
+      <workItem from="1582966671703" duration="1536000" />
+      <workItem from="1584254987100" duration="53000" />
+      <workItem from="1584255872928" duration="553000" />
+      <workItem from="1584366856549" duration="13000" />
+      <workItem from="1584368639154" duration="608000" />
+      <workItem from="1585313335011" duration="5113000" />
+      <workItem from="1585578830136" duration="686000" />
+      <workItem from="1585580227832" duration="78000" />
+      <workItem from="1586840381559" duration="2113000" />
+      <workItem from="1586850371488" duration="2579000" />
+      <workItem from="1587033690700" duration="1216000" />
+      <workItem from="1587035102328" duration="7136000" />
+      <workItem from="1587093379774" duration="3206000" />
+      <workItem from="1587118141070" duration="9299000" />
+      <workItem from="1587360816343" duration="7000" />
+    </task>
+    <task id="LOCAL-00001" summary="Beta1.0(still in debug phase)">
+      <created>1575867283382</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575867283382</updated>
+    </task>
+    <task id="LOCAL-00002" summary="model(1,2,3,4).pnml test passed.">
+      <created>1575906085074</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1575906085074</updated>
+    </task>
+    <task id="LOCAL-00003" summary="CPN reachability tree generation is on the way.">
+      <created>1576421204790</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1576421204790</updated>
+    </task>
+    <task id="LOCAL-00004" summary="CPN reachability tree generation is on the way.">
+      <created>1576564786928</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1576564786928</updated>
+    </task>
+    <task id="LOCAL-00005" summary="State space generation is completed! ^.^">
+      <created>1578386447707</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1578386447707</updated>
+    </task>
+    <task id="LOCAL-00006" summary="All is completed!(v1.0) ^.^">
+      <created>1578887446819</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1578887446820</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Algorithm of state space generation has been changed.">
+      <created>1580374842132</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1580374842132</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="Beta1.0(still in debug phase)" />
+    <MESSAGE value="model(1,2,3,4).pnml test passed." />
+    <MESSAGE value="CPN reachability tree generation is on the way." />
+    <MESSAGE value="State space generation is completed! ^.^" />
+    <MESSAGE value="All is completed!(v1.0) ^.^" />
+    <MESSAGE value="Algorithm of state space generation has been changed." />
+    <option name="LAST_COMMIT_MESSAGE" value="Algorithm of state space generation has been changed." />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="555" y="138" width="867" height="829" key="CommitChangelistDialog2" timestamp="1580374841637">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="555" y="138" width="867" height="829" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1580374841637" />
+    <state width="643" height="478" key="DebuggerActiveHint" timestamp="1582101094940">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="643" height="478" key="DebuggerActiveHint/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1582101094940" />
+    <state width="620" height="466" key="DebuggerActiveHint/67.27.1853.1053@67.27.1853.1053" timestamp="1580372945428" />
+    <state x="2649" y="273" width="453" height="484" key="FileChooserDialogImpl" timestamp="1587360832664">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2649" y="273" width="453" height="484" key="FileChooserDialogImpl/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1587360832664" />
+    <state x="771" y="293" key="FileChooserDialogImpl/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1581479815692" />
+    <state x="771" y="293" width="424" height="518" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1580819480264" />
+    <state width="1866" height="325" key="GridCell.Tab.0.bottom" timestamp="1587137255171">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1866" height="325" key="GridCell.Tab.0.bottom/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1587137255171" />
+    <state width="1799" height="376" key="GridCell.Tab.0.bottom/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1581603917670" />
+    <state width="1799" height="146" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1580820723299" />
+    <state width="1866" height="325" key="GridCell.Tab.0.center" timestamp="1587137255171">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1866" height="325" key="GridCell.Tab.0.center/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1587137255171" />
+    <state width="1799" height="376" key="GridCell.Tab.0.center/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1581603917670" />
+    <state width="1799" height="146" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1580820723299" />
+    <state width="1866" height="325" key="GridCell.Tab.0.left" timestamp="1587137255171">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1866" height="325" key="GridCell.Tab.0.left/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1587137255171" />
+    <state width="1799" height="376" key="GridCell.Tab.0.left/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1581603917670" />
+    <state width="1799" height="146" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1580820723298" />
+    <state width="1866" height="325" key="GridCell.Tab.0.right" timestamp="1587137255171">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1866" height="325" key="GridCell.Tab.0.right/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1587137255171" />
+    <state width="1799" height="376" key="GridCell.Tab.0.right/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1581603917670" />
+    <state width="1799" height="146" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1580820723299" />
+    <state width="1866" height="257" key="GridCell.Tab.1.bottom" timestamp="1587116863473">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1866" height="257" key="GridCell.Tab.1.bottom/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1587116863473" />
+    <state width="1799" height="146" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1580820723300" />
+    <state width="1866" height="257" key="GridCell.Tab.1.center" timestamp="1587116863473">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1866" height="257" key="GridCell.Tab.1.center/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1587116863473" />
+    <state width="1799" height="146" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1580820723299" />
+    <state width="1866" height="257" key="GridCell.Tab.1.left" timestamp="1587116863473">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1866" height="257" key="GridCell.Tab.1.left/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1587116863473" />
+    <state width="1799" height="146" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1580820723299" />
+    <state width="1866" height="257" key="GridCell.Tab.1.right" timestamp="1587116863473">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1866" height="257" key="GridCell.Tab.1.right/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1587116863473" />
+    <state width="1799" height="146" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1580820723300" />
+    <state width="640" height="204" key="ImportCMakeProjectWizard.bottomPanel" timestamp="1582171681536">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="640" height="204" key="ImportCMakeProjectWizard.bottomPanel/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1582171681536" />
+    <state width="640" height="476" key="ImportCMakeProjectWizard.topPanel" timestamp="1582171681536">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="640" height="476" key="ImportCMakeProjectWizard.topPanel/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1582171681536" />
+    <state x="2452" y="234" key="SettingsEditor" timestamp="1587360822404">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2452" y="234" key="SettingsEditor/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1587360822404" />
+    <state x="580" y="255" key="SettingsEditor/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1579270345947" />
+    <state x="2521" y="362" key="com.intellij.ide.util.TipDialog" timestamp="1587033690734">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2521" y="362" key="com.intellij.ide.util.TipDialog/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1587033690734" />
+    <state x="647" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1581310801222" />
+    <state x="647" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1580882937309" />
+    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1580135344990">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1580135344990" />
+  </component>
+</project>

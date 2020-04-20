@@ -1,0 +1,11 @@
+enregistrement_A: varcA
+liberation_A:
+autorisation_B: vars varcB
+basculement: vars
+liberation_B:
+enregistrement_B: varcB
+decision: vars varcpt
+altern_cpt: vars varcpt
+timeout_A: vars varcpt varcA varcB
+timeout_B: vars varcpt varcA varcB
+autorisation_A: vars varcA
